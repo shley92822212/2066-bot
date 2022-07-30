@@ -4,7 +4,7 @@ from discord.ext import commands
 from giveaway import Giveaway
 from commands import Commands
 
-token = 'NzExMDg4MDgxODc2NTQ5NjM0.Xr966g.4n6g6zK_k2wxTknOHFL0WnjQdNg'
+token = ''
 
 client = commands.Bot(command_prefix="2066.")
 #client = discord.Client()
