@@ -1,4 +1,5 @@
 # 2066-bot
 The discord bot for the 2066 discord server
 
-Commands and how to use this should be added to this readme
+The bot has basic giveaway commands.
+The bot has the ability to send Age of Empires 2 Taunts when the  appropriate number is sent
